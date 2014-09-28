@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 /*
+ * Poj 1050 - To The Max
+ * Maximum Sub Rectangle in Matrix
  * Kadane's 2d Algorithm
  * Time O(n^3)
  * Auxiliary Space: O(n)
